@@ -1,0 +1,19 @@
+入口
+IP
+端口
+
+PHP（类似JS） ->框架(类似JQ)->二次开发
+原生->DIY->定型
+
+模型:单独定义业务逻辑，表单验证
+
+重定向：失败的时候用到，redirect(U('URL')time,tip);
+
+验证：step1：自定义模型,
+step2: 声依永
+
+基础模型：
+功能：CURD | ActiveRecord模式 | ActiveRecord | 连贯操作 | 统计查询
+
+模型扩展：
+功能：高级特性

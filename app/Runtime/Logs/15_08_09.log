@@ -1,0 +1,18 @@
+[ 2015-08-09T12:58:17+08:00 ] 0.0.0.0 /bug/index.php/Bug/about
+ERR: 非法操作:about
+
+[ 2015-08-09T12:58:27+08:00 ] 0.0.0.0 /bug/index.php/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-09T12:58:35+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-09T15:38:13+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-09T15:38:17+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-09T23:29:07+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+

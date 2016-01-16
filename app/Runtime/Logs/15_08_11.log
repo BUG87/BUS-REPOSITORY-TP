@@ -1,0 +1,141 @@
+[ 2015-08-11T00:20:51+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T09:36:45+08:00 ] 0.0.0.0 /bug/index.php/home/bug/index
+ERR: 无法加载模块:bug
+
+[ 2015-08-11T09:37:13+08:00 ] 0.0.0.0 /bug/index.php/home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T09:40:35+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T09:40:47+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:09:35+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:10:32+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:10:47+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T10:11:37+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T10:11:47+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:12:22+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:12:41+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:13:04+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:13:12+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T10:28:08+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:43:01+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/
+ERR: 模板不存在[./app/Modules/admin/Tpl/Product/index.html]
+
+[ 2015-08-11T10:45:15+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:45:15+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-11T10:45:15+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-11T10:46:04+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-11T10:46:04+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T10:46:04+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-11T10:54:40+08:00 ] 0.0.0.0 /bug/index.php/admin/Product/
+ERR: XML标签语法错误 : product_list item 
+
+[ 2015-08-11T11:05:10+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T11:05:24+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T11:05:24+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T11:05:25+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T11:05:30+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2015-08-11T16:03:58+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T16:04:26+08:00 ] 0.0.0.0 /bug/?index.php/
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T16:04:35+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T16:04:44+08:00 ] 0.0.0.0 /bug/index.php
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T16:05:00+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-11T16:05:17+08:00 ] 0.0.0.0 /bug/index.php/Home/read
+ERR: 无法加载模块:read
+
+[ 2015-08-11T16:05:29+08:00 ] 0.0.0.0 /bug/index.php/Home/read/id/8
+ERR: 无法加载模块:read
+
+[ 2015-08-11T16:06:29+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/read
+ERR: 非法操作:read
+
+[ 2015-08-11T16:13:31+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/help
+ERR: 非法操作:help
+
+[ 2015-08-11T19:46:35+08:00 ] 0.0.0.0 /bug/?index.php/
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T21:55:05+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T21:56:22+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T21:58:28+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-11T22:01:33+08:00 ] 0.0.0.0 /bug/index.php/admin/Bug/index
+ERR: 无法加载模块:Bug
+
+[ 2015-08-11T22:01:54+08:00 ] 0.0.0.0 /bug/index.php/admin/Bug/index
+ERR: 无法加载模块:Bug
+
+[ 2015-08-11T22:02:10+08:00 ] 0.0.0.0 /bug/index.php/admin/Bug/sys_info
+ERR: 无法加载模块:Bug
+
+[ 2015-08-11T22:02:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Bug/sys_info
+ERR: 无法加载模块:Bug
+
+[ 2015-08-11T22:02:37+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-11T22:05:19+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+

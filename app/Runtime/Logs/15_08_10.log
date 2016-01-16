@@ -1,0 +1,750 @@
+[ 2015-08-10T11:25:37+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T11:25:44+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T11:25:53+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-10T11:25:59+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-10T11:26:03+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-10T11:26:05+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-10T11:26:58+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-10T14:40:50+08:00 ] 0.0.0.0 /bug/
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:40:57+08:00 ] 0.0.0.0 /bug/?index.php/
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:41:05+08:00 ] 0.0.0.0 /bug/?index.php/
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:41:32+08:00 ] 0.0.0.0 /bug/?index.php/home/bug
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:42:03+08:00 ] 0.0.0.0 /bug/?index.php/home/Bug
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:42:08+08:00 ] 0.0.0.0 /bug/?index.php/Home/Bug
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:42:19+08:00 ] 0.0.0.0 /bug/?index.php/Home/Bug
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:42:27+08:00 ] 0.0.0.0 /bug/?index.php/Home/Bug
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:42:55+08:00 ] 0.0.0.0 /bug/?index.php/Home/Bug/index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:43:08+08:00 ] 0.0.0.0 /bug/?index.php/home/Bug/index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:44:13+08:00 ] 0.0.0.0 /bug/index.php?home/bug/index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:45:26+08:00 ] 0.0.0.0 /bug/index.php?home/Bug/index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:45:44+08:00 ] 0.0.0.0 /bug/index.php?home/Bug/Index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:46:00+08:00 ] 0.0.0.0 /bug/index.php?Home/Bug/Index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:46:11+08:00 ] 0.0.0.0 /bug/?Home/Bug/Index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:46:21+08:00 ] 0.0.0.0 /bug/index.php?Home/Bug/Index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:47:46+08:00 ] 0.0.0.0 /bug/index.php?Home/Bug/Index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:47:59+08:00 ] 0.0.0.0 /bug/index.php?Home/Bug/Index
+ERR: 无法加载模块:Index
+
+[ 2015-08-10T14:48:20+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-10T14:52:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/index
+ERR: Action:diplay您所请求的方法不存在！
+
+[ 2015-08-10T14:53:31+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/index
+ERR: 模板不存在[./app/Modules/Admin/Tpl/Index/index.html]
+
+[ 2015-08-10T14:53:32+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/index
+ERR: 模板不存在[./app/Modules/Admin/Tpl/Index/index.html]
+
+[ 2015-08-10T14:53:33+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/index
+ERR: 模板不存在[./app/Modules/Admin/Tpl/Index/index.html]
+
+[ 2015-08-10T14:53:33+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/index
+ERR: 模板不存在[./app/Modules/Admin/Tpl/Index/index.html]
+
+[ 2015-08-10T15:06:08+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/top.php
+ERR: 非法操作:top.php
+
+[ 2015-08-10T15:06:09+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2015-08-10T15:06:09+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/menu.php
+ERR: 非法操作:menu.php
+
+[ 2015-08-10T15:06:59+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/top.php
+ERR: 非法操作:top.php
+
+[ 2015-08-10T15:06:59+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/menu.php
+ERR: 非法操作:menu.php
+
+[ 2015-08-10T15:06:59+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2015-08-10T15:09:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:09:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:09:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:00+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:01+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:01+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:10:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:11:02+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:11:03+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:11:03+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:11:03+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:12:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:12:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:12:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:12:28+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:12:28+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:12:28+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:13:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:13:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:13:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:13:49+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:13:49+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:13:49+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:51+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:53+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:53+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:53+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:54+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:54+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:54+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:55+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:14:55+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:15:03+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/sys_info
+ERR: 模板不存在[./app/Modules/Admin/Tpl/Admin/Index/sys_info.html]
+
+[ 2015-08-10T15:15:11+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:15:11+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:15:11+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:33:13+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:15+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:16+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:16+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:16+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:17+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:17+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:17+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:17+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:33:18+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:34:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:34:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:34:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:35:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:35:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:35:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:35:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:35:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:35:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:42+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:42+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:45+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:37:45+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:39:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:39:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:39:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:41:20+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:41:21+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:41:21+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:42:12+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:42:12+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:42:13+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:49+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:50+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:50+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:57+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:57+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:43:57+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:44:37+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:44:37+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:44:37+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:45:17+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/sys_info
+ERR: 模板不存在[./app/Modules/Admin/Tpl/Admin/Index/sys_info.html]
+
+[ 2015-08-10T15:45:19+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:45:19+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:45:19+08:00 ] 0.0.0.0 /bug/index.php/Admin/Common/top.html
+ERR: 无法加载模块:Common
+
+[ 2015-08-10T15:45:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:45:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:45:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:48:06+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/top
+ERR: 非法操作:top
+
+[ 2015-08-10T15:48:40+08:00 ] 0.0.0.0 /bug/index.php/Admin/Top/index
+ERR: 无法加载模块:Top
+
+[ 2015-08-10T15:49:20+08:00 ] 0.0.0.0 /bug/index.php/Admin/Top/index
+ERR: 无法加载模块:Top
+
+[ 2015-08-10T15:49:33+08:00 ] 0.0.0.0 /bug/index.php/Admin/Top/index
+ERR: 无法加载模块:Top
+
+[ 2015-08-10T15:49:39+08:00 ] 0.0.0.0 /bug/index.php/Admin/Top/index
+ERR: 无法加载模块:Top
+
+[ 2015-08-10T15:50:18+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:50:18+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:50:18+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/index.html
+ERR: 无法加载模块:Menu
+
+[ 2015-08-10T15:54:18+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:54:18+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:54:18+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T15:54:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T15:54:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:54:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:54:38+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:54:38+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:54:38+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T15:55:56+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/nav_list.php
+ERR: 非法操作:nav_list.php
+
+[ 2015-08-10T15:55:57+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/about_us.php
+ERR: 非法操作:about_us.php
+
+[ 2015-08-10T15:55:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/about_us.php
+ERR: 非法操作:about_us.php
+
+[ 2015-08-10T15:55:58+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/about_us.php
+ERR: 非法操作:about_us.php
+
+[ 2015-08-10T15:55:59+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/about_us.php
+ERR: 非法操作:about_us.php
+
+[ 2015-08-10T15:55:59+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/about_us.php
+ERR: 非法操作:about_us.php
+
+[ 2015-08-10T15:56:00+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/about_us.php
+ERR: 非法操作:about_us.php
+
+[ 2015-08-10T15:56:01+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/about_us.php
+ERR: 非法操作:about_us.php
+
+[ 2015-08-10T15:56:02+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/sys_info.php
+ERR: 非法操作:sys_info.php
+
+[ 2015-08-10T15:58:00+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:58:00+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T15:58:00+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:58:06+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T15:58:06+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:58:06+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T15:58:13+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/index
+ERR: 模板不存在[./app/Modules/Admin/Tpl//index.html]
+
+[ 2015-08-10T16:02:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:02:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:02:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:02:57+08:00 ] 0.0.0.0 /bug/index.php/Admin/Menu/nav_list.php
+ERR: 非法操作:nav_list.php
+
+[ 2015-08-10T16:33:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:33:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:33:27+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:36:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:36:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:36:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:37:13+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:37:13+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:37:13+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:37:35+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:37:35+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:37:36+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:38:29+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/system
+ERR: 非法操作:system
+
+[ 2015-08-10T16:40:34+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:40:34+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:40:34+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:40:51+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:40:51+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:40:51+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:41:23+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:41:23+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:41:23+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:42:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:42:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:42:41+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:43:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:14+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:22+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:43:28+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:28+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:28+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:43:32+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:43:32+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:32+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:43:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:43:52+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:44:05+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:44:05+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:44:05+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:45:49+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:45:49+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:45:50+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:46:26+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:46:26+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:46:26+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:46:51+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:46:51+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:46:51+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:46:56+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:46:56+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:46:56+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:47:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:47:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:47:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:49:01+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:49:01+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:49:01+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:58:43+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2015-08-10T16:58:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T16:58:44+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2015-08-10T21:16:06+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/js/js.js
+ERR: 非法操作:js
+
+[ 2015-08-10T21:16:32+08:00 ] 0.0.0.0 /bug/index.php/Home/Bug/system
+ERR: 非法操作:system
+
+[ 2015-08-10T21:16:55+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T21:17:50+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T21:23:12+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T21:23:55+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/sys_info12
+ERR: 非法操作:sys_info12
+
+[ 2015-08-10T21:24:15+08:00 ] 0.0.0.0 /bug/index.php/admin/Index/styles/style.css
+ERR: 非法操作:styles
+
+[ 2015-08-10T21:34:19+08:00 ] 0.0.0.0 /bug/index.php/Admin/Index/styles/style.css
+ERR: 非法操作:styles
+
